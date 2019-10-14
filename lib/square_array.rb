@@ -1,3 +1,4 @@
 def square_array(array)
-  # your code here
-end
+    new_array = array**2
+    new_array
+  end
